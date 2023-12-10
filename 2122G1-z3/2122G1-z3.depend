@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673258849 source:c:\users\lenovo\desktop\raf 22-23\uvod u programiranje\drugi kolokvijum\2122g1-z3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
