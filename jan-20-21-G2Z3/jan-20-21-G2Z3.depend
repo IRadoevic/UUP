@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675445768 source:c:\users\lenovo\desktop\raf 22-23\uvod u programiranje\ispiti\jan-20-21-g2z3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
